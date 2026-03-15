@@ -145,10 +145,10 @@ visualize_denoising(model, test_loader)
 ## OUTPUT
 
 ### Model Summary
-![alt text](<Screenshot (85)>)
+![alt text](<Screenshot (85).png>)
 
 ### Original vs Noisy Vs Reconstructed Image
-![alt text](<Screenshot (86)>)
+![alt text](<Screenshot (86).png>)
 
 ## RESULT
 The convolutional autoencoder was successfully trained to denoise MNIST digit images. The model effectively reconstructed clean images from their noisy versions, demonstrating its capability in feature extraction and noise reduction.
